@@ -1,4 +1,4 @@
-# project1-aninal trading card
+# project1 - animal trading card
 
 It shows an animal card on web. I made it by using HTML and CSS.
 
