@@ -1,9 +1,6 @@
-# Pixel Art Maker Project
+# project3 - pixel art maker
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+I made a pixel art maker on the web. I use javaScript to set a size of the pixel and colors of the pixel.
 
 ## Instructions
 
