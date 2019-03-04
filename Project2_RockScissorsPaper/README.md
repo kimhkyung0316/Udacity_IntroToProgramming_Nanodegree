@@ -1,5 +1,3 @@
-#RSP
+# project2 - Rock Scissors Paper game
 
-Choose various pattern of opponent and select my choice to play Rock,Scissors,Paper game.
-
-I use Python. In file, various classes represent opponent's pattern except Game class. Game class is for gamning rule and determining winner.
+It's a Python code. In RSP.py, various classes represent opponent's strategies except the Game class. So you can choose your opponent strategy like random, etc. Game class is for gaming rules and determining winner.
